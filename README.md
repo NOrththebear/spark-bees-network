@@ -1,9 +1,13 @@
-# Spark Program | Bees Network
+# Bees Network — Spark Program application
 
-Identity / project repository for the **Spark Program** application by **North Bear** (Discord: `northbears`).
+Application for the Nervos **Spark Program** (mini-grant): **Bees Network**, a decentralized observation layer for AI agents on CKB.
 
-- **Main project:** https://github.com/NOrththebear/Bees-Network
-- **Applicant GitHub:** https://github.com/NOrththebear
-- **Status:** working MVP live on the CKB **Pudge testnet** (desktop node, on-chain registry/epoch/reward scripts, end-to-end claims). Spark-funded work = product hardening + user beta.
+- **Proposal:** [APPLICATION.md](./APPLICATION.md)
+- **Project repo:** https://github.com/NOrththebear/Bees-Network
+- **Live release:** https://github.com/NOrththebear/Bees-Network/releases/tag/v0.1.0
 
-This repository exists as the applicant's identity/verification anchor per the Spark Program guidance (July 2026). Active development continues in the main repository linked above; the committee may fork this repo at completion.
+## Live MVP
+
+![Bee Network Node dashboard](./assets/mvp-dashboard.png)
+
+Applicant: North Bear · Discord `northbears`
